@@ -24,3 +24,5 @@ num_cycles = 5
 
 Pretrain Epoch [1/20] Loss: 2.9279
 
+Pretrain Epoch [5/20] Loss: 2.8424
+
